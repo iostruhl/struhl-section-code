@@ -1,5 +1,5 @@
 We're doing everything from your (local) command line!
-What you need for today's section:
+Here's what you need for today's section:
 
 A package manager:
   Mac: Homebrew - https://brew.sh/
