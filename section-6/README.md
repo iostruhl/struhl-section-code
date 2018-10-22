@@ -1,3 +1,4 @@
+We're doing everything from your (local) command line!
 What you need for today's section:
 
 A package manager:
