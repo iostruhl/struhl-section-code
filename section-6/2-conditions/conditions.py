@@ -1,6 +1,6 @@
-import cs50
+from cs50 import get_int
 
-i = cs50.get_int()
+i = get_int()
 if i < 0:
     print("negative")
 elif i > 0:

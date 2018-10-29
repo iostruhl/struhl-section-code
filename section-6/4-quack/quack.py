@@ -1,5 +1,5 @@
-import time
+from time import sleep
 
 while True:
     print("Quack!")
-    time.sleep(1)
+    sleep(1)
