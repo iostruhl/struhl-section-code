@@ -1,0 +1,8 @@
+Quiz Review Jeopardy
+www.superteachertools.us/jeopardyx/jeopardy-review-game.php?gamefile=2515780
+
+CS Concentration Requirements:
+https://harvardcs.info/concentration/requirements/
+
+CS50 Unoffical Guide to CS
+https://cdn.cs50.net/guide/guide-18.pdf
