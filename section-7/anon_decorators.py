@@ -1,10 +1,9 @@
 def decorator(function):
-  return lambda: function() + 1 # Python's hard to understand anonymous function feature!
-
+  return lambda a: function(a) + 1 # Python's hard to understand anonymous function feature!
 
 @decorator
-def one():
-  return 1
+def one(a):
+  return a
 
-a = one()
-print(a) # What does this print?
+b = one(4)
+print(b) # What does this print?

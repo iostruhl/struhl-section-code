@@ -1,10 +1,14 @@
-def decorator(function):
+def foo(f):
+  f + 1
   def newFunction():
-    return function() + 1
+    return f() + 1
+
+  print(type(newFunction))
+  print(type(f() + 1))
+
   return newFunction
 
-
-@decorator
+@foo
 def one():
   return 1
 
